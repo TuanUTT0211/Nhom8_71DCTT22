@@ -1,1 +1,1 @@
-println("Hello World");AAAAAAA
+println("Hello World");println("")
